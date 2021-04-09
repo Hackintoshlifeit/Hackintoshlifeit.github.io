@@ -1,0 +1,12 @@
+title: "HackintoshLifeit"
+description: >- # this means to ignore newlines until "baseurl:"
+  Note: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: hackintoshlifeit
+theme: minima
+header_pages:
+  - docs/README.md
+plugins:
+  - jekyll-feed
+  - jekyll-mentions
