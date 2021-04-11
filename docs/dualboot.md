@@ -4,9 +4,6 @@ title: Dual Boot(macOS & Windows)
 permalink: /dualboot/
 ---
 
-# **Dual Boot(macOS & Windows)**
-
-
 Il dual boot consiste nell'installazione di 2 Sistemi Operativi su una stessa macchina per poterli usare alternativamente. In ambito hackintosh per lo più si intende l'installazione di macOS insieme ad un altro sistema operativo come ad esempio Windows, MA BISOGNA AVER INSTALLATO MACOS PER PRIMO SE SI HA 1 SOLO SSD/HDD.
 
 Da macOS 
