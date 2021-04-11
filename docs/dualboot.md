@@ -1,3 +1,9 @@
+---
+layout: page
+title: Dual Boot(macOS & Windows)
+permalink: /dualboot/
+---
+
 # **Dual Boot(macOS & Windows)**
 
 
