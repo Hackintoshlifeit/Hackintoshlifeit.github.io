@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Home
+title: HackintoshLife IT
 permalink: /
 ---
-
-## **HackintoshLifeIT**
-
 
 Benvenuto,
 
