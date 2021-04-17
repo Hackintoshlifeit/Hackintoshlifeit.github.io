@@ -5,7 +5,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: hackintoshlifeit
 theme: jekyll-theme-midnight
-remote_theme: jekyll-theme-midnight
 markdown : kramdown
 header_pages:
   - docs/README.md
