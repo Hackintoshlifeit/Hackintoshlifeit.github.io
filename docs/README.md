@@ -14,3 +14,5 @@ HackintoshLifeit è una comunità, un gruppo d'appassionati, che a scopo puramen
 HackintoshLifeit ha un suo canale youtube per semplificare al massimo le procedure illustrate nelle guide, ha un canale telegram per fornire supporto in real time.
 
 * [Dual Boot MacOS Windows](https://hackintoshlifeit.github.io/dualboot/)
+
+* [Attivare Intel I225V](https://hackintoshlifeit.github.io/attivarei225v/)
