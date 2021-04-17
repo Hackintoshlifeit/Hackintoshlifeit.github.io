@@ -16,3 +16,5 @@ HackintoshLifeit ha un suo canale youtube per semplificare al massimo le procedu
 * [Dual Boot MacOS Windows](https://hackintoshlifeit.github.io/dualboot/)
 
 * [Attivare Intel I225V](https://hackintoshlifeit.github.io/attivarei225v/)
+
+* [Leggere e scrivere volumi ntfs con macos gratuitamente](https://hackintoshlifeit.github.io/ntfs/)
