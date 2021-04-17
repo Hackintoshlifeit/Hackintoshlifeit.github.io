@@ -8,7 +8,6 @@ theme: minima
 markdown : kramdown
 header_pages:
   - docs/README.md
-  - docs/dualboot.md
 plugins:
   - jekyll-feed
   - jekyll-mentions
